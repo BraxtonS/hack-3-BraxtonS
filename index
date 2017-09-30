@@ -1,0 +1,43 @@
+<hmtl>
+    <head>
+        <title>NCAT __</title>
+        <link rel="stylesheet" type="text/css" href="main.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="utf-8">
+    </head>
+
+
+    
+    <body>
+            <div class="w3-container w3-indigo">
+                <div class="w3-container">
+                <h1>NCAT ___</h1>
+                    <form>
+                        <input type="textfield" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+            
+            <div class="w3-third w3-container"></div>
+                <div class="w3-container">
+                  <h2>Input Form</h2>
+                </div>
+                
+                <form class="w3-container">
+                  <p>
+                  <input class="w3-input" type="text">
+                  <label>Username</label></p>
+                
+                  <p>
+                  <input class="w3-input" type="text">
+                  <label>Last Name</label></p>
+                
+                  <p>
+                  <input class="w3-input" type="text">
+                  <label>Email</label></p>
+                </form>
+            <div class="w3-third w3-container"></div>
+    </body>
+    
+    
